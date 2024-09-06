@@ -1,4 +1,4 @@
-## GrubDash
+# GrubDash
 GrubDash is a mock food delivery application, built as part of a backend development project to practice building RESTful APIs, middleware validation, and complex route handling. This project demonstrates how to build a Node.js API with Express, focusing on validation, error handling, and route management.
 
 ## Features
