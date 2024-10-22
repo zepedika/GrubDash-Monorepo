@@ -7,22 +7,22 @@ GrubDash is a mock food delivery application, built as part of a backend develop
 * Error Handling: Centralized error handling mechanism using Express middleware to capture and respond to both user and server errors.
 
 ## Installation
-Clone the repository:
+Clone the repository
 ```
 git clone <repository-url>
 ```
 
-Navigate to the project directory:
+Navigate to the project directory
 ```
 cd GrubDash
 ```
 
-Install dependencies:
+Install dependencies
 ```
 npm install
 ```
 
-Run the application:
+Run the application
 ```
 npm start
 ```
