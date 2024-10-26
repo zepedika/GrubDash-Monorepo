@@ -8,6 +8,7 @@ GrubDash is a mock food delivery application, built as part of a backend develop
 
 ## Installation
 Clone the repository:
+
 ```
 git clone <repository-url>
 ```
